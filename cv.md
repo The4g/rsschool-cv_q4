@@ -2,8 +2,8 @@
 
 ## Contacts ##
 
-*Telegram* @TheF0g
-*Email:* 4testerone@gmail.com
+* *Telegram:* @TheF0g
+* *Email:* 4testerone@gmail.com
 
 ## About me
 
