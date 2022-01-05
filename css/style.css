@@ -70,6 +70,7 @@ p {
     display: flex;
     position: relative;
     right: 20px;
+    top: 15px;
     flex-direction: column;
 }
 
@@ -159,6 +160,7 @@ hr {
 .int__description_university {
     display: flex;
     justify-content: center;
+    margin: 10px 0;
 }
 
 .myskills {
@@ -166,7 +168,7 @@ hr {
     width: 100%;
     justify-content: space-around;
     align-items: flex-start;
-    text-align: center;
+    /* text-align: center; */
 }
 
 .skills_description {
@@ -181,10 +183,12 @@ hr {
     font-weight: 600;
     font-size: 18px;
     line-height: 20px;
-    letter-spacing: 0.1em;
-    font-size: 25px;
+    /* letter-spacing: 0.1em; */
+    font-size: 20px;
     color: #1A202C;
-    padding-bottom: 10px;
+    /* padding-bottom: 10px; */
+    padding-left: 17px;
+    margin: 10px 0;
 }
 
 .footer {
@@ -228,13 +232,14 @@ hr {
 
 .ico_position {
     display: flex;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 .skill_list {
-  font-size: 21px;
+  font-size: 18px;
   color: darkcyan;
+  margin: 10px 0;
 }
 
 .t11 {
